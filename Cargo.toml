@@ -8,10 +8,10 @@ license = "LicenseRef-All-Rights-Reserved"
 publish = false
 
 [lib]
-crate-type = ["cdylib", "rlib"]
+crate-type = ["cdylib"]
 
 [dependencies]
-strawberry-plugin-api = { path = "../strawberry-plugin-api" }
+strawberry-plugin-api = { version = "=0.2.1", registry = "strawberry" }
 
 # A repository of its own, not a member of a larger workspace.
 [workspace]
