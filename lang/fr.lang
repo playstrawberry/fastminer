@@ -1,0 +1,8 @@
+description=Mine les ores et logs connectés en sneaking avec le bon tool.
+permission=Utiliser Fastminer.
+command=Afficher les paramètres de Fastminer.
+usage=Fastminer : sneak et casse un ore avec une pickaxe, ou un log avec une axe.
+status=Fastminer : limite de blocs {0}, activé {1}. Les paramètres s'appliquent après redémarrage.
+config_error=Fastminer : config invalide à la ligne {0} ; plugin désactivé. Le fichier reste inchangé.
+config_io=Fastminer : impossible de lire ou créer la config ; plugin désactivé.
+registry_error=Fastminer : registre des blocs indisponible ; plugin désactivé.

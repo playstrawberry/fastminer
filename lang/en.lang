@@ -1,0 +1,8 @@
+description=Mine connected ores and logs while sneaking with the right tool.
+permission=Use Fastminer.
+command=Show Fastminer settings.
+usage=Fastminer: sneak and break an ore with a pickaxe, or a log with an axe.
+status=Fastminer: block limit {0}, enabled {1}. Settings apply after restart.
+config_error=Fastminer: invalid config at line {0}; plugin disabled. The file was not changed.
+config_io=Fastminer: config could not be read or created; plugin disabled.
+registry_error=Fastminer: block registry unavailable; plugin disabled.

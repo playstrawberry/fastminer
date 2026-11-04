@@ -1,0 +1,8 @@
+description=Doğru tool ile sneaking yaparken bağlı ore ve log bloklarını kır.
+permission=Fastminer kullan.
+command=Fastminer ayarlarını göster.
+usage=Fastminer: sneak yaparak pickaxe ile ore veya axe ile log kır.
+status=Fastminer: blok sınırı {0}, etkin {1}. Ayarlar restart sonrası uygulanır.
+config_error=Fastminer: config satır {0} geçersiz; plugin devre dışı. Dosya değiştirilmedi.
+config_io=Fastminer: config okunamadı veya oluşturulamadı; plugin devre dışı.
+registry_error=Fastminer: blok kaydı kullanılamıyor; plugin devre dışı.

@@ -1,0 +1,17 @@
+[package]
+name = "fastminer"
+version = "0.1.0"
+edition = "2024"
+description = "Sneak to mine a connected vein with normal player block breaks."
+authors = ["Strawberry Interactive LLC"]
+license = "LicenseRef-All-Rights-Reserved"
+publish = false
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+strawberry-plugin-api = { path = "../strawberry-plugin-api" }
+
+# A repository of its own, not a member of a larger workspace.
+[workspace]
